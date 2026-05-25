@@ -4,7 +4,7 @@ A simple FTP Client built by Java using socket communication based on FTP (RFC 9
 ---
 
 ## Requirements 
-# JDK 11+
+### JDK 11+
 No third-party libraries are required. The GUI uses Java Swing, which is included in the JDK.
 
 ---
