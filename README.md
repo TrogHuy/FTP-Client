@@ -43,4 +43,9 @@ The GUI window will open. No arguments are required.
 Status messages and server replies are logged in the panel at the bottom of the window.
 
 ---
+
+## Integrity Declaration
+I confirm that this submission is my own work. I did not copy code from AI tools, classmates, or online repositories.
+
+---
  
