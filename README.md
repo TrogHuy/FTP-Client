@@ -40,6 +40,7 @@ The GUI window will open. No arguments are required.
 5. **Delete** — Select a remote file and click **Delete Selected**.
 6. **Make Dir / Remove Dir** — Use the **Make Dir** and **Remove Dir** buttons to manage remote directories.
 7. **Disconnect** — Click **Disconnect** when done.
+8. **Refresh** - Click **Refresh** button on remote side to update remote status
 Status messages and server replies are logged in the panel at the bottom of the window.
 
 ---
