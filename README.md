@@ -34,11 +34,11 @@ The GUI window will open. No arguments are required.
 ## Usage
  
 1. **Connect** — Enter the server hostname (default: `ftp.gnu.org`), port (default: `21`), and credentials. Tick **Anonymous** for anonymous login. Click **Connect**.
-2. **Browse** — The left panel shows your local file system; the right panel shows the remote directory. Double-click a folder to navigate into it. Click **Up** to go to the parent directory.
+2. **Browse** — Local file system is shown on the left panel. The remote directory is shown on the right panel. Double-click a folder to navigate into it. Click **Up** to go to the parent directory.
 3. **Upload** — Select a local file, then click **Upload Selected to Remote**.
 4. **Download** — Select a remote file, then click **Download Selected** and choose a save location.
 5. **Delete** — Select a remote file and click **Delete Selected**.
-6. **Make Dir / Remove Dir** — Use the **Make Dir** and **Remove Dir** buttons to manage remote directories.
+6. **Make Dir / Remove Dir** — Use the **Make Dir** and **Remove Dir** buttons to create / delete a remote directory.
 7. **Disconnect** — Click **Disconnect** when done.
 8. **Refresh** - Click **Refresh** button on remote side to update remote status.
 
